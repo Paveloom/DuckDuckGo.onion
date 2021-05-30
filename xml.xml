@@ -6,6 +6,14 @@
   <LongName>DuckDuckGo as an onion service</LongName>
   <Image width="32" height="32" type="image/x-icon">https://3g2upl4pq6kufc4m.onion/favicon.ico</Image>
   <Url type="text/html" method="get" template="http://3g2upl4pq6kufc4m.onion/?q={searchTerms}">
-    <Param name="kp" value="-2"/>
+    <Param name="kp" value="-2"/> <!-- Disable Safe Search -->
+    <Param name="kn" value="1"/>  <!-- Open links in a new tab -->
+    <Param name="k1" value="-1"/> <!-- Disable advertisements -->
+    <Param name="kak" value="-1"/> <!-- Don't show links to instructions for how to add DuckDuckGo to your browser -->
+    <Param name="kax" value="-1"/> <!-- Don't show occasional reminders to add DuckDuckGo to your browser -->
+    <Param name="kaq" value="-1"/> <!-- Don't show sign-up form for the DuckDuckGo privacy newsletters -->
+    <Param name="kap" value="-1"/> <!-- Don't show occasional reminders to sign up for the DuckDuckGo privacy newsletters -->
+    <Param name="kao" value="-1"/> <!-- Don't show homepage privacy tips -->
+    <Param name="kau" value="-1"/> <!-- Don't ask about experience using DuckDuckGo -->
   </Url>
 </OpenSearchDescription>
