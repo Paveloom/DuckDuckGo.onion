@@ -1,7 +1,7 @@
 # Description
 
-The [hosted page](https://paveloom.github.io/DuckDuckGo.onion/html.html) provides a
-[description](https://paveloom.github.io/DuckDuckGo.onion/xml.xml) of
+The [hosted page](https://paveloom.github.io/DuckDuckGo.onion/) provides a
+[description](https://paveloom.github.io/DuckDuckGo.onion/search.xml) of
 [DuckDuckGo](https://duckduckgo.com/)'s search engine as an
 [onion service](https://3g2upl4pq6kufc4m.onion).
 
