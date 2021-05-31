@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Searx</ShortName>
+  <Description>Search with Searx</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <LongName>Searx: a privacy-respecting, hackable metasearch engine</LongName>
+  <Image width="64" height="64" type="image/png">https://searx.bar/static/themes/oscar/img/favicon.png</Image>
+  <Url type="text/html" method="get" template="https://searx.bar/?q={searchTerms}"></Url>
+</OpenSearchDescription>
