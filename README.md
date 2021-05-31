@@ -6,6 +6,6 @@ The [hosted page](https://paveloom.github.io/OpenSearchDescriptionFiles/) provid
 
 To add any of these to your browser ([Firefox](https://www.mozilla.org/en-US/firefox/new/) expected), click on the icon of the search box, and then press
 - «Add "DuckDuckGo (Onion)», or
-- «Add "Searx"» .
+- «Add "Searx"».
 
 See more about that in the [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/OpenSearch#autodiscovery_of_search_plugins).
