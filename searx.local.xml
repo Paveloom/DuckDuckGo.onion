@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-  <ShortName>Searx (Local)</ShortName>
+  <ShortName>Searx (.se)</ShortName>
   <Description>Search with Searx</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <LongName>Searx: a privacy-respecting, hackable metasearch engine</LongName>
