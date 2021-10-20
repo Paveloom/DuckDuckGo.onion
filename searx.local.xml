@@ -4,6 +4,6 @@
   <Description>Search with Searx</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <LongName>Searx: a privacy-respecting, hackable metasearch engine</LongName>
-  <Image width="64" height="64" type="image/png">http://127.0.0.1:8888/static/themes/oscar/img/favicon.png</Image>
+  <Image width="64" height="64" type="image/png">https://searx.be/static/themes/oscar/img/favicon.png</Image>
   <Url type="text/html" method="get" template="http://127.0.0.1:8888/search?q={searchTerms}"></Url>
 </OpenSearchDescription>
