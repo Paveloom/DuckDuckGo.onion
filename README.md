@@ -10,4 +10,6 @@ To add any of these to your browser ([Firefox](https://www.mozilla.org/en-US/fir
 - «Add "Searx (.bar)"», or
 - «Add "Searx (.be)"»
 
+Alternatively, you can use the «[Add custom search engine](https://addons.mozilla.org/en-US/firefox/addon/add-custom-search-engine/)» addon.
+
 See more about that in the [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/OpenSearch#autodiscovery_of_search_plugins).
